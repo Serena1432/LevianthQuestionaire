@@ -1,0 +1,36 @@
+{
+"questionData": [
+  {
+    "timeLimit": 60,
+    "minCharacters": 1,
+    "type": "select",
+    "selectContent": ["Lựa chọn 1", "Lựa chọn 2"],
+    "content": "Câu hỏi 1?"
+  },
+  {
+    "timeLimit": 300,
+    "minCharacters": 200,
+    "type": "text",
+    "content": "Câu hỏi 2?"
+  },
+  {
+    "timeLimit": 300,
+    "minCharacters": 50,
+    "type": "text",
+    "content": "Câu hỏi 3?"
+  },
+  {
+    "timeLimit": 300,
+    "minCharacters": 200,
+    "type": "text",
+    "content": "Câu hỏi 4?"
+  },
+  {
+    "timeLimit": 60,
+    "minCharacters": 1,
+    "type": "number",
+    "maxNumber": 100,
+    "content": "Câu hỏi 5?"
+  }
+]
+}

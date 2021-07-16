@@ -1,0 +1,37 @@
+{
+"additionalDescription": "Đây là bộ câu hỏi để thử nghiệm tính năng của trang web. Bộ câu hỏi này sẽ KHÔNG xuất hiện trong phần trả lời chính thức.<br>Câu trả lời của bạn sẽ được hiển thị <b>công khai</b> nên hãy đảm bảo là không có thông tin cá nhân nào trong câu trả lời của bạn.",
+"questionData": [
+  {
+    "timeLimit": 60,
+    "minCharacters": 1,
+    "type": "select",
+    "selectContent": ["Lựa chọn 1", "Lựa chọn 2"],
+    "content": "Câu hỏi thử nghiệm 1?"
+  },
+  {
+    "timeLimit": 300,
+    "minCharacters": 200,
+    "type": "text",
+    "content": "Câu hỏi thử nghiệm 2?"
+  },
+  {
+    "timeLimit": 300,
+    "minCharacters": 50,
+    "type": "text",
+    "content": "Câu hỏi thử nghiệm 3?"
+  },
+  {
+    "timeLimit": 300,
+    "minCharacters": 200,
+    "type": "text",
+    "content": "Câu hỏi thủ nghiệm 4?"
+  },
+  {
+    "timeLimit": 60,
+    "minCharacters": 1,
+    "type": "number",
+    "maxNumber": 100,
+    "content": "Câu hỏi thử nghiệm5?"
+  }
+]
+}
